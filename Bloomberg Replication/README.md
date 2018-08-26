@@ -12,4 +12,5 @@ go cover position when the closing price cross below upper Bollinger Bands (maxi
 take long position when the closing price goes below lower Bollinger Bands (maximum positions available) 
 go close position when the closing price cross above lower Bollinger Bands (maximum positions available)
 
+Starting: Main701819606.m
 Output: Trade tables and optimization tables which are the same as Bloomberg's result on screen.
