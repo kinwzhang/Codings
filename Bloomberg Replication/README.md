@@ -1,4 +1,4 @@
-# Bloomberg Replication &#60;BTST&#62; (Matlab Code)
+# Bloomberg Replication &#60;BTST&#62; function (Matlab Code)
 This project replicates the back-testing and optimization function of Bloomberg Terminal.
 
 Within samples, a trading strategy using Bollinger Bands as technical indicator to decide the trade action (Long, Short, Cover, Close) 
