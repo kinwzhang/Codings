@@ -1,6 +1,2 @@
-# HKSc Stock Data
-Function:   Obtain latest HKEx traded stock data from sina.com
-Outputs:    Data table stored in CSV files
-Inputs:     Ticker list
-Author:     Kin.Z
-Date:       11/01/2017
+# Web Scrapting
+All scripts written for fetching data from websites are loacted under this folder. 
