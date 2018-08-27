@@ -1,7 +1,9 @@
 # HKSc Stock Data
 Function:   Obtain latest HKEx traded stock data from sina.com
 
-Outputs:    Data table stored in CSV files
+Script:     HKStockData.py
+
+Outputs:    Data table stored in CSV files (Sample: hk_security_info.csv)
 
 Inputs:     Ticker list
 
