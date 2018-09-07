@@ -2,5 +2,5 @@
 -------
 ## List
 
-- 804. Unique Morse Code Words
-- 693. Binary Number with Alternating Bits
+- #804. Unique Morse Code Words
+- #693. Binary Number with Alternating Bits
