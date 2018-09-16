@@ -2,7 +2,7 @@
 # Question:
 Is stock return normally distributed?
 # Background:
-I was asked this question during a phone interveiw.
+I was asked this question during an interveiw.
 
 Intitutively, I think it was not, since some companies/sectors are doing better than others.
 However, when I think that again. I think I have a different answer. 
