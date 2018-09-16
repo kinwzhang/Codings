@@ -23,4 +23,5 @@ Daily adjusted closing price from Yahoo Finance;
 
 Calculated stock returns from closing prices.
 
-# Conclusion: Yes, stock returns are normally distributed.
+# Conclusion: 
+Yes, stock returns are normally distributed.
