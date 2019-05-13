@@ -8,3 +8,4 @@
 - #392. Is Subsequence
 - #378. Kth Smallest Element in a Sorted Matrix
 - #929. Unique Email Addresses
+- #905. Sort Array By Parity
