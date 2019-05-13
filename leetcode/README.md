@@ -16,3 +16,5 @@
 - #977. Squares of a Sorted Array
 - #657. Robot Return to Origin
 - #461. Hamming Distance
+- #942. DI String Match
+- #7. Reverse Integer
