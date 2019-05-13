@@ -9,3 +9,5 @@
 - #378. Kth Smallest Element in a Sorted Matrix
 - #929. Unique Email Addresses
 - #905. Sort Array By Parity
+- #961. N-Repeated Element in Size 2N Array
+- #884. Uncommon Words from Two Sentences
