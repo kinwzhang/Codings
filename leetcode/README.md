@@ -11,3 +11,8 @@
 - #905. Sort Array By Parity
 - #961. N-Repeated Element in Size 2N Array
 - #884. Uncommon Words from Two Sentences
+- #832. Flipping an Image
+- #448. Find All Numbers Disappeared in an Array
+- #977. Squares of a Sorted Array
+- #657. Robot Return to Origin
+- #461. Hamming Distance
