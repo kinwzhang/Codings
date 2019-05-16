@@ -18,3 +18,5 @@
 - #461. Hamming Distance
 - #942. DI String Match
 - #7. Reverse Integer
+- #728. Self Dividing Numbers
+- #852. Peak Index in a Mountain Array
