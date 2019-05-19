@@ -38,7 +38,7 @@ FirstName, LastName, City, State
 */
 
 -- Accepted Code:
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 select FirstName, LastName, City, State
 from Person
 left join Address
